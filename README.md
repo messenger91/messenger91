@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @messenger91
-- 👀 I’m interested in TUI apps
-- 🌱 I’m currently learning Go
+# Hi, my name is Dmitry 👋
+
+### 🛠 My current tech stack is:
+![My Skills](https://skillicons.dev)
+
 
 <!---
 messenger91/messenger91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
